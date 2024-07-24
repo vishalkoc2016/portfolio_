@@ -1,3 +1,3 @@
-URL: mochi-bunny.github.io/portfolio
+URL:
 - add timeline with expansion effect
 - include projects in timeline
