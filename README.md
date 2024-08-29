@@ -3,4 +3,4 @@ URL:https://portfolio-chi-nine-72.vercel.app/
 - include projects in timeline
 
 
-Live on Custom Domain:- vishu.me
+Live on Custom Domain:- https://vishu.me/
